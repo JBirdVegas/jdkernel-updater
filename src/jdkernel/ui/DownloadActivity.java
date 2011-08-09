@@ -12,8 +12,8 @@ import android.view.View;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
-import jdkernel.interfaces.IDownloadService;
-import jdkernel.interfaces.IDownloadServiceCallback;
+//import jdkernel.interfaces.IDownloadService;
+//import jdkernel.interfaces.IDownloadServiceCallback;
 import jdkernel.ui.R;
 
 import java.io.Serializable;

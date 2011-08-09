@@ -6,8 +6,8 @@ import java.io.*;
 import java.util.HashMap;
 import java.util.Map;
 
-import warmupdaterapp.customTypes.FullUpdateInfo;
-import warmupdaterapp.customization.Customization;
+import jdkernel.customTypes.FullUpdateInfo;
+import jdkernel.customization.Customization;
 
 public class State {
     private static final String TAG = "State";

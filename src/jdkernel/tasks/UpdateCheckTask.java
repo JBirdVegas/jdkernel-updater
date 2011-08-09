@@ -12,8 +12,8 @@ import android.content.DialogInterface.OnCancelListener;
 import android.os.AsyncTask;
 import android.os.IBinder;
 import android.os.RemoteException;
-import jdkernel.interfaces.IUpdateCheckService;
-import jdkernel.interfaces.IUpdateCheckServiceCallback;
+//import jdkernel.interfaces.IUpdateCheckService;
+//import jdkernel.interfaces.IUpdateCheckServiceCallback;
 import jdkernel.ui.R;
 
 public class UpdateCheckTask extends AsyncTask<Void, Void, Void> {

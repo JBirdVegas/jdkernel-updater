@@ -10,7 +10,7 @@ import android.net.Uri;
 import android.os.*;
 import android.view.*;
 import android.widget.*;
-import warmupdaterapp.ui.R;
+import jdkernel.ui.R;
 
 import java.io.File;
 import java.io.FilenameFilter;
